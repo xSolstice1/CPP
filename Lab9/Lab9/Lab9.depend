@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1690047967 source:c:\users\xsols\onedrive\documents\ict283\lab9\bst.h
+	<iostream>
+
+1690040347 source:c:\users\xsols\onedrive\documents\ict283\lab9\bsttest.cpp
+	"BST.h"
+	<iostream>
+
+1690047967 c:\users\xsols\onedrive\documents\ict283\lab9\bst.h
+	<iostream>
+
+1690048709 source:c:\users\xsols\onedrive\documents\ict283\lab9\date.cpp
+	"Date.h"
+
+1690049048 c:\users\xsols\onedrive\documents\ict283\lab9\date.h
+	<string>
+	<iostream>
+
+1690048443 source:c:\users\xsols\onedrive\documents\ict283\lab9\datetree.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"BST.h"
+	"Date.h"
+
+1690378430 source:c:\users\xsols\onedrive\documents\ict283\lab9\lab9\bst.h
+	<iostream>
+
+1690378442 source:c:\users\xsols\onedrive\documents\ict283\lab9\lab9\bsttest.cpp
+	"BST.h"
+	<iostream>
+
+1690378430 c:\users\xsols\onedrive\documents\ict283\lab9\lab9\bst.h
+	<iostream>
+
+1690048709 source:c:\users\xsols\onedrive\documents\ict283\lab9\lab9\date.cpp
+	"Date.h"
+
+1690049048 c:\users\xsols\onedrive\documents\ict283\lab9\lab9\date.h
+	<string>
+	<iostream>
+

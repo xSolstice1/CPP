@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1686569131 source:c:\users\xsols\onedrive\documents\ict283\lab5\lab5\vector.cpp
+	<iostream>
+	<string>
+	"Vector.h"
+
+1686740163 c:\users\xsols\onedrive\documents\ict283\lab5\lab5\vector.h
+	<iostream>
+
+1686811850 source:c:\users\xsols\onedrive\documents\ict283\lab5\lab5\date.cpp
+	"Date.h"
+
+1686573028 c:\users\xsols\onedrive\documents\ict283\lab5\lab5\date.h
+	<string>
+	<iostream>
+
+1686811850 source:c:\users\xsols\onedrive\documents\ict283\lab5\lab5\time.cpp
+	"Time.h"
+
+1686573601 c:\users\xsols\onedrive\documents\ict283\lab5\lab5\time.h
+	<iostream>
+	<string>
+
+1686828646 source:c:\users\xsols\onedrive\documents\ict283\lab5\lab5\main.cpp
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+	"WindLog.h"
+	"Weather.h"
+	<iostream>
+	<fstream>
+
+1686813183 source:c:\users\xsols\onedrive\documents\ict283\lab5\lab5\windlog.cpp
+	"WindLog.h"
+
+1686810288 c:\users\xsols\onedrive\documents\ict283\lab5\lab5\windlog.h
+	<iostream>
+	"Date.h"
+	"Time.h"
+	"Vector.h"
+
+1686828606 source:c:\users\xsols\onedrive\documents\ict283\lab5\lab5\weather.cpp
+	"Weather.h"
+
+1686828677 c:\users\xsols\onedrive\documents\ict283\lab5\lab5\weather.h
+	<iostream>
+	<cmath>
+	"WindLog.h"
+
