@@ -1,0 +1,283 @@
+# depslib dependency file v1.0
+1690170953 source:c:\users\xsols\onedrive\documents\ict283\lab9\bst.h
+	<iostream>
+
+1690173118 source:c:\users\xsols\onedrive\documents\ict283\lab9\bsttest.cpp
+	"BST.h"
+	"Collector.h"
+	<iostream>
+
+1690186480 c:\users\xsols\onedrive\documents\ict283\lab9\bst.h
+	<iostream>
+
+1690205357 source:c:\users\xsols\onedrive\documents\ict283\lab9\date.cpp
+	"Date.h"
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\lab9\date.h
+	<string>
+	<iostream>
+
+1690049048 source:c:\users\xsols\onedrive\documents\ict283\lab9\datetree.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"BST.h"
+	"Date.h"
+
+1690217624 source:c:\users\xsols\onedrive\documents\ict283\lab9\main.cpp
+	"Menu.h"
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\lab9\menu.h
+	"WindLog.h"
+	"BST.h"
+	"Collector.h"
+	"Value.h"
+	<map>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\lab9\windlog.h
+	<iostream>
+	"Date.h"
+	"Time.h"
+	"Weather.h"
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\lab9\time.h
+	<iostream>
+	<string>
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\lab9\weather.h
+	<iostream>
+	<cmath>
+
+1687413928 c:\users\xsols\onedrive\documents\ict283\lab9\vector.h
+	<iostream>
+	<string>
+
+1690112659 source:c:\users\xsols\onedrive\documents\ict283\lab9\time.cpp
+	"Time.h"
+
+1687413928 source:c:\users\xsols\onedrive\documents\ict283\lab9\vector.cpp
+	"Vector.h"
+
+1690111299 source:c:\users\xsols\onedrive\documents\ict283\lab9\weather.cpp
+	"Weather.h"
+
+1690190679 source:c:\users\xsols\onedrive\documents\ict283\lab9\windlog.cpp
+	"WindLog.h"
+
+1690216958 source:c:\users\xsols\onedrive\documents\ict283\lab9\menu.cpp
+	"Menu.h"
+
+1690169104 source:c:\users\xsols\onedrive\documents\ict283\lab9\collectvalue.cpp
+	"CollectValue.h"
+	<iostream>
+
+1690169166 c:\users\xsols\onedrive\documents\ict283\lab9\collectvalue.h
+
+1690192546 source:c:\users\xsols\onedrive\documents\ict283\lab9\value.cpp
+	"Value.h"
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\lab9\value.h
+	<string>
+
+1690169166 source:c:\users\xsols\onedrive\documents\ict283\lab9\collectvalue.h
+
+1690192404 source:c:\users\xsols\onedrive\documents\ict283\lab9\collector.cpp
+	"Collector.h"
+
+1690192014 c:\users\xsols\onedrive\documents\ict283\lab9\collector.h
+	"Value.h"
+
+1690171137 source:c:\users\xsols\onedrive\documents\ict283\lab9\collectortest.cpp
+	"BST.h"
+	"Collector.h"
+	"Value.h"
+	<iostream>
+
+1690114560 source:c:\users\xsols\onedrive\documents\ict283\lab9\date.h
+	<string>
+	<iostream>
+
+1690120271 source:c:\users\xsols\onedrive\documents\ict283\lab9\menu.h
+	"WindLog.h"
+	"BST.h"
+	<map>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+
+1690112659 source:c:\users\xsols\onedrive\documents\ict283\lab9\time.h
+	<iostream>
+	<string>
+
+1690111295 source:c:\users\xsols\onedrive\documents\ict283\lab9\weather.h
+	<iostream>
+	<cmath>
+	"Vector.h"
+
+1690112733 source:c:\users\xsols\onedrive\documents\ict283\lab9\windlog.h
+	<iostream>
+	"Date.h"
+	"Time.h"
+	"Weather.h"
+	"Vector.h"
+
+1690192404 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\collector.cpp
+	"Collector.h"
+
+1690218163 c:\users\xsols\onedrive\documents\ict283\ict283assignment2\collector.h
+	"Value.h"
+
+1690218441 c:\users\xsols\onedrive\documents\ict283\ict283assignment2\value.h
+	<string>
+
+1690205357 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\date.cpp
+	"Date.h"
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\ict283assignment2\date.h
+	<string>
+	<iostream>
+
+1690433650 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\main.cpp
+	"Menu.h"
+
+1690217887 c:\users\xsols\onedrive\documents\ict283\ict283assignment2\menu.h
+	"WindLog.h"
+	"BST.h"
+	"Collector.h"
+	"Value.h"
+	<map>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\ict283assignment2\windlog.h
+	<iostream>
+	"Date.h"
+	"Time.h"
+	"Weather.h"
+
+1690431630 c:\users\xsols\onedrive\documents\ict283\ict283assignment2\time.h
+	<iostream>
+	<string>
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\ict283assignment2\weather.h
+	<iostream>
+	<cmath>
+
+1690378406 c:\users\xsols\onedrive\documents\ict283\ict283assignment2\bst.h
+	<iostream>
+
+1690430313 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\menu.cpp
+	"Menu.h"
+
+1690431642 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\time.cpp
+	"Time.h"
+
+1690192546 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\value.cpp
+	"Value.h"
+
+1690111299 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\weather.cpp
+	"Weather.h"
+
+1690190679 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\windlog.cpp
+	"WindLog.h"
+
+1690431610 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\timetest.cpp
+	"Time.h"
+
+1690432747 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\collectortest.cpp
+	"BST.h"
+	"Collector.h"
+	"Value.h"
+	<iostream>
+
+1690205476 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2\bsttest.cpp
+	"BST.h"
+	"Collector.h"
+	<iostream>
+
+1690192404 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\collector.cpp
+	"Collector.h"
+
+1690218163 c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\collector.h
+	"Value.h"
+
+1690218441 c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\value.h
+	<string>
+
+1690205357 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\date.cpp
+	"Date.h"
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\date.h
+	<string>
+	<iostream>
+
+1690433650 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\main.cpp
+	"Menu.h"
+
+1690217887 c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\menu.h
+	"WindLog.h"
+	"BST.h"
+	"Collector.h"
+	"Value.h"
+	<map>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\windlog.h
+	<iostream>
+	"Date.h"
+	"Time.h"
+	"Weather.h"
+
+1690431630 c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\time.h
+	<iostream>
+	<string>
+
+1690205357 c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\weather.h
+	<iostream>
+	<cmath>
+
+1690378406 c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\bst.h
+	<iostream>
+
+1690430313 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\menu.cpp
+	"Menu.h"
+
+1690431642 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\time.cpp
+	"Time.h"
+
+1690192546 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\value.cpp
+	"Value.h"
+
+1690111299 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\weather.cpp
+	"Weather.h"
+
+1690190679 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\windlog.cpp
+	"WindLog.h"
+
+1690205476 source:c:\users\xsols\onedrive\documents\ict283\ict283assignment2_34792195_angjinwei\ict283assignment2\bsttest.cpp
+	"BST.h"
+	"Collector.h"
+	<iostream>
+

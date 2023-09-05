@@ -1,0 +1,25 @@
+Test Plan and Output is in ICT283Assignment2Documentation.docx.
+
+Working:
+
+1. Program runs without any errors.
+2. Program successfully reads filename from data_source.txt.
+3. BST is successfully implemented.
+4. BST functions are fully working.
+5. Program successfully imports data from an external data source.
+6. Program calculates average speed and standard deviation accurately.
+7. Program calculates average temperature and standard deviation accurately.
+8. Program calculates total solar radiation and correctly convert W/m^2 to kWh/m^2.
+9. Program calculates SPCC correctly.
+9. Program successfully imports data into a vector inside a map.
+10. Program outputs the data to an external csv file according to the format given.
+11. Program only display 1 decimal point as required under output format.
+12. Program displays 2 decimal points for sPCC as required under output format.
+13. Collector and Value class successfully implemented to use as function pointer in BST
+14. Executable successfully runs
+
+Not working:
+
+1. If anything other than an integer is entered in the menu, the program will go into an infinite loop.
+2. If anything other than an integer is entered when prompted for year or month, the program will go into an infinite loop.
+3. There is no validation on future years or dates in the program.
