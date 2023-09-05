@@ -1,0 +1,32 @@
+Student ID: 102234
+Semester:   962
+  Course:  DATA STRUCTURE
+  Section: ICT283
+  Credits: 3
+  Marks:  90
+  Date Obtained:  12 January 2022
+
+
+  Course:  COMPUTER GRAPHICS
+  Section: ICT289
+  Credits: 3
+  Marks:  97
+  Date Obtained:  7 September 2022
+
+
+  Course:  INTRO TO PROGRAMMING
+  Section: ICT167
+  Credits: 2
+  Marks:  92
+  Date Obtained:  9 December 2021
+
+
+  Course:  EMPLOYABILITY
+  Section: MSP200
+  Credits: 3
+  Marks:  71
+  Date Obtained:  22 October 2022
+
+
+Number of courses = 4
+Total credits     = 11
